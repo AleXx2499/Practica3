@@ -6,9 +6,12 @@
 body{
 	background-color: red;
 }
-footer{
-	margin: 15rem;
+section{
 	text-align: center;
+}
+footer{
+	text-align: center;
+	font-size: 2rem;
 	background-color: black;
 	color: white;
 }
